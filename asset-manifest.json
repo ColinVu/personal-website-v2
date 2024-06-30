@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/personal-website-v2/static/css/main.52451050.css",
+    "main.js": "/personal-website-v2/static/js/main.8bc886bd.js",
+    "static/js/453.534db5b8.chunk.js": "/personal-website-v2/static/js/453.534db5b8.chunk.js",
+    "static/media/IBMPlexMono-SemiBold.ttf": "/personal-website-v2/static/media/IBMPlexMono-SemiBold.5f82c3b8863d23615092.ttf",
+    "static/media/IBMPlexMono-Light.ttf": "/personal-website-v2/static/media/IBMPlexMono-Light.a21361968db7f557724b.ttf",
+    "index.html": "/personal-website-v2/index.html",
+    "main.52451050.css.map": "/personal-website-v2/static/css/main.52451050.css.map",
+    "main.8bc886bd.js.map": "/personal-website-v2/static/js/main.8bc886bd.js.map",
+    "453.534db5b8.chunk.js.map": "/personal-website-v2/static/js/453.534db5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52451050.css",
+    "static/js/main.8bc886bd.js"
+  ]
+}
